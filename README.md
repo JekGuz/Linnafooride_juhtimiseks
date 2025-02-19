@@ -49,7 +49,7 @@ See projekt on intelligentne tarkvaralahendus, mis optimeerib linnafooride töö
    docker-compose up -d  
    ```
 
-**Autorid:**  
-📌 **Meeskond LinnafoorTech** 🚀  
+**Autor:**  
+📌 **Jekaterina Guzek** 🚀  
 
 ---
