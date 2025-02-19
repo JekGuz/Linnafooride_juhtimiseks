@@ -23,32 +23,6 @@ See projekt on intelligentne tarkvaralahendus, mis optimeerib linnafooride töö
 
 ---
 
-## **Paigaldamine ja käivitamine**  
-1. **Klooni projekt**  
-   ```bash
-   git clone https://github.com/sinu-kasutaja/linnafooride-juhtimine.git  
-   cd linnafooride-juhtimine  
-   ```
-
-2. **Käivita backend**  
-   ```bash
-   cd backend  
-   pip install -r requirements.txt  
-   python app.py  
-   ```
-
-3. **Käivita frontend**  
-   ```bash
-   cd frontend  
-   npm install  
-   npm start  
-   ```
-
-4. **Andmebaasi seadistamine**  
-   ```bash
-   docker-compose up -d  
-   ```
-
 **Autor:**  
 📌 **Jekaterina Guzek** 🚀  
 
